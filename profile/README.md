@@ -1,5 +1,4 @@
-# Games as Research 
-
+# Materializing Design 
 
 A project aimed at developing an approach to research-creation with a focus on recoverability, notably via the Method for Design Materialization (MDM). FInd out more on our [website](https://www.gamesasresearch.com/). Based in Concordia University, Montreal, Canada.
 
@@ -9,20 +8,18 @@ The method uses the affordances of Git to track the design process of a project 
 Perhaps most centrally, Git commits are used not just to keep track of technical progress in the implementation of the project, but to track the design thinking behind each “move” made in the project. 
 This is alongside a Process Journal that is used to capture more longform reflections about the project direction as a whole.
 
-Find out more on [this page](https://www.gamesasresearch.com/mdm). And here's a [reading list](https://www.gamesasresearch.com/bibliography).
+Find out more on [this page](https://materializing.design). And here's a [reading list](https://www.gamesasresearch.com/bibliography).
 
-## People
+## Primary Investigators 
 
-1. Pippin Barr
-2. Danny Godin
-3. Rilla Khaled
-4. Jonathan Lessard
+1. Dr. Rilla Khaled 
+2. Dr. Pippin Barr
 
 
 ## Contact Us
 Email: gamesasresearch@gmail.com 
 
-Website: gamesasresearch.com
+Website: [materializing.design](https://materializing.design)
 
 
 
