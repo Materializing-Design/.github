@@ -1,25 +1,18 @@
 # Materializing Design 
 
-A project aimed at developing an approach to research-creation with a focus on recoverability, notably via the Method for Design Materialization (MDM). FInd out more on our [website](https://www.gamesasresearch.com/). Based in Concordia University, Montreal, Canada.
+Materializing Design is an ongoing research project housed at Concordia University in Montréal, led by Dr. Rilla Khaled and Dr. Pippin Barr.
 
+Our major objectives are:
 
-## About MDM 
-The method uses the affordances of Git to track the design process of a project from initial concept through design through development (and iteration) through testing to release, support, and reception. 
-Perhaps most centrally, Git commits are used not just to keep track of technical progress in the implementation of the project, but to track the design thinking behind each “move” made in the project. 
-This is alongside a Process Journal that is used to capture more longform reflections about the project direction as a whole.
+- To surface and materialise game design processes for an audience of academics, members of the game industry, design practitioners, and the game-curious general public
+- To develop best practices and workflows for game makers to document, archive, and reflect on their work, aka the Method for Design Materialisation (MDM)
+- To progressively build a set of public-facing online game development repositories, documented using MDM, supporting future research into game design practice
+- To transparently employ grounded theory analysis to inform evidence-based patterns for how game design actually happens
 
-Find out more on [this page](https://materializing.design). And here's a [reading list](https://www.gamesasresearch.com/bibliography).
+Find out more on [materializing.design](https://materializing.design)
 
-## Primary Investigators 
+If this sounds like you, then come say [hello@materializing.design](mailto:hello@materializing.design). 
 
-1. Dr. Rilla Khaled 
-2. Dr. Pippin Barr
-
-
-## Contact Us
-Email: gamesasresearch@gmail.com 
-
-Website: [materializing.design](https://materializing.design)
 
 
 
