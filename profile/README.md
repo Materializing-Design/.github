@@ -1,6 +1,6 @@
 # Materializing Design 
 
-Materializing Design is an ongoing research project housed at Concordia University in Montréal, led by Dr. Rilla Khaled and Dr. Pippin Barr.
+Materializing Design is an ongoing research project housed at Concordia University in Montréal, led by Dr. Rilla Khaled. 
 
 Our major objectives are:
 
@@ -9,16 +9,4 @@ Our major objectives are:
 - To progressively build a set of public-facing online game development repositories, documented using MDM, supporting future research into game design practice
 - To transparently employ grounded theory analysis to inform evidence-based patterns for how game design actually happens
 
-Find out more on [materializing.design](https://materializing.design)
-
-If this sounds like you, then come say [hello@materializing.design](mailto:hello@materializing.design). 
-
-
-
-
-
-
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub Organization profile.
-You can click the Preview link to take a look at your changes.
---->
+Checkout the collection of games and design projects we have collected so far [here](https://github.com/Materializing-Design/Index)  
